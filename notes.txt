@@ -1,0 +1,9 @@
+Conditions:
+
+If image width is > 811px then resize to 811
+
+Screen: 2880 x 1800
+50%     1440 x  900
+
+capture x .282
+
